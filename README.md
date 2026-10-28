@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-AnswerConnect is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://answerconnect.com/
+AnswerConnect provides 24/7 live call answering, virtual receptionist, live chat support, appointment scheduling, and after‑hours answering services for businesses across e‑commerce, healthcare, real‑estate, finance, and other industries. Their platform connects callers to professional agents, integrates with popular CRMs and scheduling tools, and offers a mobile app and portal for managing calls and leads. Recognized as a top answering service in 2026, AnswerConnect helps companies improve customer experience and capture every call, chat, and appointment opportunity.
+
+**Areas:** Company · Call Answering · Live Chat · Appointment Scheduling · Virtual Receptionist · Integration
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.answerconnect.com/)
+- [Getting started](https://www.answerconnect.com/help-center/billing/why-is-the-waived-setup-fee-showing-on-my-bill/)
+- [Pricing](https://www.answerconnect.com/view-pricing)
+- [Support](https://www.answerconnect.com/help-world-work-anywhere)
+- [Blog](https://www.answerconnect.com/blog)
+- [Privacy policy](https://www.answerconnect.com/privacypolicy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/answerconnect/](https://apis.io/providers/answerconnect/).
